@@ -49,7 +49,7 @@ d3.json(torontoHoods).then(function(data) {
 L.geoJSON(data, {
   style: myStyle,
   onEachFeature: function(feature, layer) {
-    layer.bindPopup("<h3> Neighborhood: " + feature.properties.AREA_NAME + "/h3> <br><h3> (" + feature.properties.AREA_S_CD + ")</h3>");
+    layer.bindPopup("<h3> Neighborhood: " + feature.properties.AREA_NAME);
   }
   }).addTo(map);
 });
