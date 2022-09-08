@@ -14,7 +14,7 @@ and one of major earthquakes.
 
 ## Results
 
-The page once first loaded showing all three overlays:
+The page when first loaded showing all three overlays:
 ![Main Page Map](https://user-images.githubusercontent.com/103155045/189013520-077fbf25-ff2d-4122-b26f-fc384cce9974.png)
 
 The page switched to the light map that was added:
