@@ -4,7 +4,7 @@
 
 In this project, a visualization of earthquakes over the past seven days was made.
 To create this a html index fileand javascript file were created. The javascript file
-used the d3 library to read in GeoJSON data from the web. Leaflet API was used to create
+used the d3 library to read in GeoJSON data from the web. Mapbox API was used to create
 maps for the visualizations. Leaflet was used to create tile layers. Allowing users to 
 switch between three maps. It was used again to create overlay objects that allow users
 to switch between three visualization, one of all earthquakes, one of tectonic plates
